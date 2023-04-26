@@ -1,0 +1,12 @@
+.walletcont{
+    display: block;
+    width: 11rem;
+    overflow-x: scroll;
+}
+
+.contbody{
+    background-image: url("../img/logopage.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
